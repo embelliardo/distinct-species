@@ -19,7 +19,7 @@ The repository contains the following:
     * *plots* folder contains pdf plots of the results produced by the 3 scripts above
 2. *01_estimators*: contains the estimators that are executed by *00_main*
 3. *02_support_functions*: contains support function that are used bu the estimators, such as `par_estimator` and `differential_evolution` that are used for estimating the parameter <img src="https://render.githubusercontent.com/render/math?math=\hat{\theta}">, or `zipf_sample` that is used to draw a random sample from a Zipfian distribution.
-4. *03_meda*: (WIP) contains some scripts to run the animation of the differential evolution optimization method (just for fun)
+4. *03_media*: (WIP) contains some scripts to run the animation of the differential evolution optimization method (just for fun)
 
 ## References
 The algorithms presented are mainly based on  
